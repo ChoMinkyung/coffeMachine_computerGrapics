@@ -15,7 +15,7 @@
 
 ### ✨ Demo
 
-[![Video Label](https://img.youtube.com/vi/1MXYVOA525g/0.jpg)]https://www.youtube.com/watch?v=1MXYVOA525g)
+[![컴퓨터그래픽스설계_커피머신](https://img.youtube.com/vi/1MXYVOA525g/0.jpg)]https://www.youtube.com/watch?v=1MXYVOA525g)
 
 <br>
 
