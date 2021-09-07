@@ -15,7 +15,7 @@
 
 ### ✨ Demo
 
-[![Video Label](https://user-images.githubusercontent.com/58170545/132291673-aae65d96-29ef-4021-9349-b879e7ea76a2.png)]https://youtu.be/1MXYVOA525g)
+[![Video Label](https://img.youtube.com/vi/1MXYVOA525g/0.jpg)]https://youtu.be/1MXYVOA525g)
 <br>
 <iframe width="956" height="538" src="https://www.youtube.com/watch?v=1MXYVOA525g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
