@@ -15,9 +15,9 @@
 
 ### ✨ Demo
 
-<iframe width="956" height="538" src="https://youtu.be/1MXYVOA525g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="956" height="538" src="https://www.youtube.com/watch?v=1MXYVOA525g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
-<iframe width="640" height="360" src="https://youtu.be/1MXYVOA525g" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/watch?v=1MXYVOA525g" frameborder="0" gesture="media" allowfullscreen=""></iframe>
 
 
 ## ✨ 구현 기능
