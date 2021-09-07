@@ -15,7 +15,8 @@
 
 ### ✨ Demo
 
-[![Video Label](https://img.youtube.com/vi/1MXYVOA525g/default.jpg)]https://www.youtube.com/watch?v=1MXYVOA525g)
+[![Video Label](https://img.youtube.com/vi/1MXYVOA525g/0.jpg)]https://www.youtube.com/watch?v=1MXYVOA525g)
+
 <br>
 
 ## ✨ 구현 기능
