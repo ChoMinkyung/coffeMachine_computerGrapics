@@ -1,9 +1,5 @@
 컴퓨터 그래픽스 설계 미니 프로젝트 - 커피머신 
 
-<p align="center">
-  <img width="150" align="center" src="https://user-images.githubusercontent.com/58170545/128740164-436adc63-0497-4f2d-b6c4-9ce43b71fba0.png" alt="incar"/>
-</p>
-
 <div align="center" style="font-weight:bold;">컴퓨터 그래픽스 설계 미니프로젝트 - 커피머신 구현</div>
 <br>
 
