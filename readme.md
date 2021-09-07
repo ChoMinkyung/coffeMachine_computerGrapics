@@ -17,10 +17,6 @@
 
 [![Video Label](https://img.youtube.com/vi/1MXYVOA525g/0.jpg)]https://youtu.be/1MXYVOA525g)
 <br>
-<iframe width="956" height="538" src="https://www.youtube.com/watch?v=1MXYVOA525g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
-<iframe width="640" height="360" src="https://www.youtube.com/watch?v=1MXYVOA525g" frameborder="0" gesture="media" allowfullscreen=""></iframe>
-<br>
 
 ## ✨ 구현 기능
 
